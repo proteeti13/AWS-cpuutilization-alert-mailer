@@ -1,1 +1,1 @@
-# AWS-cpuutilization-alert-mailer-
+# AWS-cpuutilization-alert-mailer
